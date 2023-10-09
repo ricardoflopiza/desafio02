@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "zapatillas",
+		"description": "running",
+		"price": 180,
+		"thumbnail": [
+			"ZApatilla"
+		],
+		"code": "45435645",
+		"stock": 100
+	},
+	{
+		"id": 2,
+		"title": "poleron",
+		"description": "Poleron adidas",
+		"price": 70,
+		"thumbnail": [
+			"Poleron adidas"
+		],
+		"code": "123123",
+		"stock": 1000
+	},
+	{
+		"id": 3,
+		"title": "hoody",
+		"description": "reebok",
+		"price": 35,
+		"thumbnail": [
+			"Imagen de Mouse"
+		],
+		"code": "5676",
+		"stock": 100
+	}
+]
